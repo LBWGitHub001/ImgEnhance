@@ -1,0 +1,5 @@
+pandas
+numpy
+os
+cv2
+matplotlib
